@@ -1,0 +1,11 @@
+C:\Users\209450\Desktop\zad2\KlientServer\KlientServer\bin\Debug\netcoreapp2.1\KlientServer.deps.json
+C:\Users\209450\Desktop\zad2\KlientServer\KlientServer\bin\Debug\netcoreapp2.1\KlientServer.runtimeconfig.json
+C:\Users\209450\Desktop\zad2\KlientServer\KlientServer\bin\Debug\netcoreapp2.1\KlientServer.runtimeconfig.dev.json
+C:\Users\209450\Desktop\zad2\KlientServer\KlientServer\bin\Debug\netcoreapp2.1\KlientServer.dll
+C:\Users\209450\Desktop\zad2\KlientServer\KlientServer\bin\Debug\netcoreapp2.1\KlientServer.pdb
+C:\Users\209450\Desktop\zad2\KlientServer\KlientServer\obj\Debug\netcoreapp2.1\KlientServer.csprojAssemblyReference.cache
+C:\Users\209450\Desktop\zad2\KlientServer\KlientServer\obj\Debug\netcoreapp2.1\KlientServer.csproj.CoreCompileInputs.cache
+C:\Users\209450\Desktop\zad2\KlientServer\KlientServer\obj\Debug\netcoreapp2.1\KlientServer.AssemblyInfoInputs.cache
+C:\Users\209450\Desktop\zad2\KlientServer\KlientServer\obj\Debug\netcoreapp2.1\KlientServer.AssemblyInfo.cs
+C:\Users\209450\Desktop\zad2\KlientServer\KlientServer\obj\Debug\netcoreapp2.1\KlientServer.dll
+C:\Users\209450\Desktop\zad2\KlientServer\KlientServer\obj\Debug\netcoreapp2.1\KlientServer.pdb
